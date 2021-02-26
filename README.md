@@ -7,7 +7,7 @@
 * [Status](#status)
 
 ## General info
-It is a clock
+It is a simple clock.
 
 ## Technologies
 * CSS
